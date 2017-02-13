@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\shw2\\Desktop\\MIT Segway Robot Hackaton\\DORI\\build\\intermediates\\res\\merged\\debug\\color-v11\\abc_background_cache_hint_selector_material_light.xml",
+        "source": "C:\\Users\\shw2\\Desktop\\MIT Segway Robot Hackaton\\DORI\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\color-v11\\abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\shw2\\Desktop\\MIT Segway Robot Hackaton\\DORI\\build\\intermediates\\res\\merged\\debug\\color-v11\\abc_background_cache_hint_selector_material_dark.xml",
+        "source": "C:\\Users\\shw2\\Desktop\\MIT Segway Robot Hackaton\\DORI\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\color-v11\\abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Emily\\AndroidStudioProjects\\Dori -Hackathon\\DORI\\build\\intermediates\\res\\merged\\debug\\color-v11\\abc_background_cache_hint_selector_material_light.xml",
+        "source": "C:\\Users\\Emily\\AndroidStudioProjects\\Dori -Hackathon\\DORI\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\color-v11\\abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Emily\\AndroidStudioProjects\\Dori -Hackathon\\DORI\\build\\intermediates\\res\\merged\\debug\\color-v11\\abc_background_cache_hint_selector_material_dark.xml",
+        "source": "C:\\Users\\Emily\\AndroidStudioProjects\\Dori -Hackathon\\DORI\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\color-v11\\abc_background_cache_hint_selector_material_dark.xml"
+    }
+]

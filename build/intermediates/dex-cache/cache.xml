@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\shw2\Desktop\MIT Segway Robot Hackaton\DORI\build\intermediates\exploded-aar\com.segway.robot\visionsdk\0.6.20\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="488cfe8935a0279c6401b2108e00ab1e0abb26d2">
+        <dex dex="C:\Users\shw2\Desktop\MIT Segway Robot Hackaton\DORI\build\intermediates\transforms\dex\debug\folders\1000\10\com.segway.robot-visionsdk-0.6.20_370e59303f3e86a95906ec6b6153801a16ab96e7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\shw2\Desktop\MIT Segway Robot Hackaton\DORI\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="C:\Users\shw2\Desktop\MIT Segway Robot Hackaton\DORI\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.0.1_bb8edc49f18a591295da95e762d2bd8ec57fe449\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\shw2\Desktop\MIT Segway Robot Hackaton\DORI\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="C:\Users\shw2\Desktop\MIT Segway Robot Hackaton\DORI\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.0.1_c2e85a633c7a4269ec8e5fede5b437cb56ea0a07\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\shw2\Desktop\MIT Segway Robot Hackaton\DORI\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fef2b3e4b6b1b0e5fe7b69fa137a5fa55a3182ab">
+        <dex dex="C:\Users\shw2\Desktop\MIT Segway Robot Hackaton\DORI\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-8.4.0_169277e8e86a21248f77517e31125cda584906f2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\shw2\Desktop\MIT Segway Robot Hackaton\DORI\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="C:\Users\shw2\Desktop\MIT Segway Robot Hackaton\DORI\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_400d3e2a48dff94fcdedb5ee0c7fb23d288817be\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\shw2\Desktop\MIT Segway Robot Hackaton\DORI\build\intermediates\exploded-aar\com.segway.robot\base-connectivity-sdk\1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c0988ddf9eb086e0c017fbe2ce8fb3a7e1e0c16b">
+        <dex dex="C:\Users\shw2\Desktop\MIT Segway Robot Hackaton\DORI\build\intermediates\transforms\dex\debug\folders\1000\10\com.segway.robot-base-connectivity-sdk-1.0_c79514d95d5196467c142738ddd9ab6feb70391e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\shw2\Desktop\MIT Segway Robot Hackaton\DORI\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="C:\Users\shw2\Desktop\MIT Segway Robot Hackaton\DORI\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_84ef7d5854cf2f4942b13ff20a17d9b22798fc95\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\shw2\Desktop\MIT Segway Robot Hackaton\DORI\build\intermediates\exploded-aar\com.segway.robot\basesdk\0.5.27\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="83d55b9caa57cb40522d90dee2e27deee0ad75f2">
+        <dex dex="C:\Users\shw2\Desktop\MIT Segway Robot Hackaton\DORI\build\intermediates\transforms\dex\debug\folders\1000\10\com.segway.robot-basesdk-0.5.27_ba914ede74d11f97dd487fedc044337cbbc5a5cf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\shw2\Desktop\MIT Segway Robot Hackaton\DORI\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="C:\Users\shw2\Desktop\MIT Segway Robot Hackaton\DORI\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.0.1_53d0479f51ea107adda2b614164829e16d5c1ada\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\shw2\Desktop\MIT Segway Robot Hackaton\DORI\build\intermediates\exploded-aar\com.segway.robot\headsdk\0.5.27\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4198da74cf4818a57299da421c05ebf37d7771a2">
+        <dex dex="C:\Users\shw2\Desktop\MIT Segway Robot Hackaton\DORI\build\intermediates\transforms\dex\debug\folders\1000\10\com.segway.robot-headsdk-0.5.27_35efb5db173ec6a5a30033917c7b6ec16b04f6d8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\shw2\Desktop\MIT Segway Robot Hackaton\DORI\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="C:\Users\shw2\Desktop\MIT Segway Robot Hackaton\DORI\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_958a2ccc6208f20234dfecc767547e30f7e4d062\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\shw2\Desktop\MIT Segway Robot Hackaton\DORI\build\intermediates\exploded-aar\com.segway.robot\speech-sdk\0.5.17\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="478154b4358918d6f0e67f74abeb89fd30dad7b0">
+        <dex dex="C:\Users\shw2\Desktop\MIT Segway Robot Hackaton\DORI\build\intermediates\transforms\dex\debug\folders\1000\10\com.segway.robot-speech-sdk-0.5.17_66da860bbe7b35188744188eab13fb1d488ec9b4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\shw2\Desktop\MIT Segway Robot Hackaton\DORI\build\intermediates\exploded-aar\com.segway.robot\robot-connectivity-sdk\0.5.9\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="61fa513725672369c0afdc7681834c1f72e7ef79">
+        <dex dex="C:\Users\shw2\Desktop\MIT Segway Robot Hackaton\DORI\build\intermediates\transforms\dex\debug\folders\1000\10\com.segway.robot-robot-connectivity-sdk-0.5.9_09f7e46b26e2959fa0b565ab712e53a158e71812\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\shw2\Desktop\MIT Segway Robot Hackaton\DORI\build\intermediates\exploded-aar\com.android.support\support-v13\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9abf11d546d9e0ee82da86df608ced7a961b76ac">
+        <dex dex="C:\Users\shw2\Desktop\MIT Segway Robot Hackaton\DORI\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v13-25.0.1_76265da252bcff767728cb27fe97498020a6bb40\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\shw2\Desktop\MIT Segway Robot Hackaton\DORI\build\intermediates\exploded-aar\com.segway.robot\base-connectivity-sdk\1.0\jars\libs\slf4j-nop-1.7.14.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9da43afb34b0cc4cfb0b5afef9e5b8f2e155e0e">
+        <dex dex="C:\Users\shw2\Desktop\MIT Segway Robot Hackaton\DORI\build\intermediates\transforms\dex\debug\folders\1000\10\slf4j-nop-1.7.14_3cdd47c22867a8f58a2891f6ad24dd5584afdd8e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\shw2\Desktop\MIT Segway Robot Hackaton\DORI\build\intermediates\exploded-aar\com.segway.robot\mobile-connectivity-sdk\0.5.9\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="82f9c8f8997e3208632c85104393b6f69c19cfe2">
+        <dex dex="C:\Users\shw2\Desktop\MIT Segway Robot Hackaton\DORI\build\intermediates\transforms\dex\debug\folders\1000\10\com.segway.robot-mobile-connectivity-sdk-0.5.9_c34e45f4abc3e68ec6f42a6762e5ae8b108dab88\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\shw2\Desktop\MIT Segway Robot Hackaton\DORI\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="C:\Users\shw2\Desktop\MIT Segway Robot Hackaton\DORI\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_aedd6f5464859cefcfc6e097131f9123e4f47a66\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\shw2\Desktop\MIT Segway Robot Hackaton\DORI\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d956cacd96722aac57eabf3952d03f8c7dc383a9">
+        <dex dex="C:\Users\shw2\Desktop\MIT Segway Robot Hackaton\DORI\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_90b33ef1b2b04120ae534a29b509f65c8977c4d0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\shw2\Desktop\MIT Segway Robot Hackaton\DORI\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="C:\Users\shw2\Desktop\MIT Segway Robot Hackaton\DORI\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.0.1_6b7b26f7b624cbfa82f0df2753482d5684619a99\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\shw2\Desktop\MIT Segway Robot Hackaton\DORI\build\intermediates\exploded-aar\com.segway.robot\base-connectivity-sdk\1.0\jars\libs\mina-core-2.0.13.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e442feab40134d77aab0af454ca1528427c67158">
+        <dex dex="C:\Users\shw2\Desktop\MIT Segway Robot Hackaton\DORI\build\intermediates\transforms\dex\debug\folders\1000\10\mina-core-2.0.13_5d43d29fe887857e74d44aff75847cac2a4a618a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.0.1\support-annotations-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="C:\Users\shw2\Desktop\MIT Segway Robot Hackaton\DORI\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.0.1_16b927aa0dd2b2321d15d940863d62ef4fef4cda\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\shw2\Desktop\MIT Segway Robot Hackaton\DORI\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="C:\Users\shw2\Desktop\MIT Segway Robot Hackaton\DORI\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.0.1_f1474d65e6391d7a3816e374f459a6380df05aff\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\shw2\Desktop\MIT Segway Robot Hackaton\DORI\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="C:\Users\shw2\Desktop\MIT Segway Robot Hackaton\DORI\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.0.1_a87007d7555319216f24571a2c344bb621809f7f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\shw2\Desktop\MIT Segway Robot Hackaton\DORI\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="C:\Users\shw2\Desktop\MIT Segway Robot Hackaton\DORI\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_bea4e3b8e9ddcd3b0c632fe98d2940baa4637502\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\shw2\Desktop\MIT Segway Robot Hackaton\DORI\build\intermediates\exploded-aar\com.segway.robot\base-connectivity-sdk\1.0\jars\libs\slf4j-api-1.7.14.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1bdf26979864b3605d61bfbde664474dbe52b13a">
+        <dex dex="C:\Users\shw2\Desktop\MIT Segway Robot Hackaton\DORI\build\intermediates\transforms\dex\debug\folders\1000\10\slf4j-api-1.7.14_9829be657f69c94b610dff513ab5e6cd76b27559\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\shw2\Desktop\MIT Segway Robot Hackaton\DORI\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="65d086ee9daaf87b5af62ad24471edafa433354c">
+        <dex dex="C:\Users\shw2\Desktop\MIT Segway Robot Hackaton\DORI\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appindexing-8.4.0_bc6fc95ae07e25f9770be1f4cd3fbc7c92c0874b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\shw2\Desktop\MIT Segway Robot Hackaton\DORI\build\intermediates\exploded-aar\com.android.support\support-v13\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cfb91ea7c6890336890ccb42767041af6b863e32">
+        <dex dex="C:\Users\shw2\Desktop\MIT Segway Robot Hackaton\DORI\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_186c6c88084bb684a1e3397804defe6c7de87478\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\shw2\Desktop\MIT Segway Robot Hackaton\DORI\build\intermediates\exploded-aar\com.segway.robot\sdkbase\0.1.24\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="09049761d460a582ec4bb6346730e134fd8cf40a">
+        <dex dex="C:\Users\shw2\Desktop\MIT Segway Robot Hackaton\DORI\build\intermediates\transforms\dex\debug\folders\1000\10\com.segway.robot-sdkbase-0.1.24_f828892c54d77c32425d614785710a531036cd57\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\shw2\Desktop\MIT Segway Robot Hackaton\DORI\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="C:\Users\shw2\Desktop\MIT Segway Robot Hackaton\DORI\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.0.1_5c5ccd855f5f86d17347dcd172cd58f4515fd685\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\shw2\Desktop\MIT Segway Robot Hackaton\DORI\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="C:\Users\shw2\Desktop\MIT Segway Robot Hackaton\DORI\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-8.4.0_5459b9d2866d008fa56d9b465422395b6174501d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\shw2\Desktop\MIT Segway Robot Hackaton\DORI\build\intermediates\exploded-aar\com.android.support\cardview-v7\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1108575c7dc7b7f5b378b3290ac90de81a9b8830">
+        <dex dex="C:\Users\shw2\Desktop\MIT Segway Robot Hackaton\DORI\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-cardview-v7-25.0.1_b72cf26c47d288da6db9bf5b71fcc97fca1901bd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\shw2\Desktop\MIT Segway Robot Hackaton\DORI\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\shw2\Desktop\MIT Segway Robot Hackaton\DORI\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.0.1_20fa97cdae4b50d641b73a027c74d99ab91f5ff8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\shw2\Desktop\MIT Segway Robot Hackaton\DORI\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="C:\Users\shw2\Desktop\MIT Segway Robot Hackaton\DORI\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.0.1_e020130d86d74a02d92494dbfedf7c423641d654\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\shw2\Desktop\MIT Segway Robot Hackaton\DORI\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5a48ada83dc4b8a206c3ed067baa60be6a2a49df">
+        <dex dex="C:\Users\shw2\Desktop\MIT Segway Robot Hackaton\DORI\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_8bd8ca4c0da0dc0470a7baff853869ba61347b8d\classes.dex" />
+    </item>
+
+</items>

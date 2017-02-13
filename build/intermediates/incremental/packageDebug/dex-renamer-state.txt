@@ -1,0 +1,7 @@
+#Sun Feb 12 10:33:21 SGT 2017
+base.0=C\:\\Users\\shw2\\Desktop\\MIT Segway Robot Hackaton\\DORI\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_8bd8ca4c0da0dc0470a7baff853869ba61347b8d
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\shw2\\Desktop\\MIT Segway Robot Hackaton\\DORI\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_90b33ef1b2b04120ae534a29b509f65c8977c4d0\\classes.dex
+base.1=C\:\\Users\\shw2\\Desktop\\MIT Segway Robot Hackaton\\DORI\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_90b33ef1b2b04120ae534a29b509f65c8977c4d0
+file.0=C\:\\Users\\shw2\\Desktop\\MIT Segway Robot Hackaton\\DORI\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_8bd8ca4c0da0dc0470a7baff853869ba61347b8d\\classes.dex

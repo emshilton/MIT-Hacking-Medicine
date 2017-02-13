@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86_64,x86,armeabi-v7a,armeabi,arm64-v8a"
+    api-level="22"
+    density="hdpi"
+    format="8"
+    plugin-version="2.2.3"
+    timestamp="2032845527514860"
+    token="5805828525744590008"
+    verifier="FULL_BUILD_REQUESTED" >
+
+    <task
+        name="javac"
+        duration="0" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="114" />
+    <task
+        name="verifier"
+        duration="48" />
+
+    <artifact
+        location="C:\Users\shw2\Desktop\MIT Segway Robot Hackaton\DORI\build\outputs\apk\DORI-debug.apk"
+        type="MAIN" />
+
+    <build
+        timestamp="2032845527514860"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="C:\Users\shw2\Desktop\MIT Segway Robot Hackaton\DORI\build\outputs\apk\DORI-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>
